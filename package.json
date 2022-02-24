@@ -1,0 +1,22 @@
+{
+  "name": "backend-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@biconomy/mexa": "^2.0.28",
+    "cors": "^2.8.5",
+    "ethers": "^5.5.4",
+    "express": "^4.17.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.0",
+    "nodemon": "^2.0.15",
+    "web3": "^1.7.0"
+  }
+}
